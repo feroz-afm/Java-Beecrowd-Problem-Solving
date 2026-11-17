@@ -9,3 +9,7 @@
   <img src="https://img.shields.io/badge/Solved-24-success" />
   <img src="https://img.shields.io/badge/License-MIT-green" />
 </p>
+
+## About
+This repository tracks my problem-solving practice in Java. Every solution is accepted-style code written with
+`Scanner` input and formatted output exactly as Beecrowd expects, so each file can be submitted directly.
