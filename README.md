@@ -61,3 +61,16 @@ javac Main.java
 java Main
 ```
 Type the input and the program prints the output in Beecrowd's format.
+
+## What I Practiced
+- Reading input with `Scanner` and printing with `printf` (exact decimal places)
+- Integer division and modulo for time, date and money conversion
+- Greedy algorithms for banknotes and coins
+- Avoiding floating-point errors by converting money to cents
+- Conditionals and math formulas (Bhaskara, distance, geometry)
+
+## Roadmap
+- [x] Beginner 1001–1021
+- [ ] Remaining beginner problems
+- [ ] Ad-Hoc, Strings and Data Structures categories
+- [ ] Graph and Dynamic Programming problems
