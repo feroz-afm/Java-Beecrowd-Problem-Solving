@@ -53,3 +53,11 @@ because Beecrowd requires the class to be called `Main`.
 | 1035 | Selection Test 1 | Conditionals | [Main.java](beginner/1035-selection-test-1/Main.java) |
 | 1036 | Bhaskara's Formula | Quadratic equation | [Main.java](beginner/1036-bhaskaras-formula/Main.java) |
 | 1037 | Interval | Conditionals | [Main.java](beginner/1037-interval/Main.java) |
+
+## How to Run
+```bash
+cd beginner/1001-extremely-basic
+javac Main.java
+java Main
+```
+Type the input and the program prints the output in Beecrowd's format.
