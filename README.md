@@ -74,3 +74,9 @@ Type the input and the program prints the output in Beecrowd's format.
 - [ ] Remaining beginner problems
 - [ ] Ad-Hoc, Strings and Data Structures categories
 - [ ] Graph and Dynamic Programming problems
+
+## License
+Released under the [MIT License](LICENSE).
+
+## Author
+**Md Feroz Ahmed** — CSE, Pundra University of Science & Technology · [GitHub](https://github.com/feroz-afm)
